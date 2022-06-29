@@ -82,19 +82,19 @@
 
 //5
 
-const myArr = [];
+// const myArr = [];
 
-let i = 0;
+// let i = 0;
 
-while (i < 1000) {
+// while (i < 1000) {
 
-myArr.push(i * i);
-    i++;
-}
+// myArr.push(i * i);
+//     i++;
+// }
 
 
 
-console.log(myArr);
+// console.log(myArr);
 
 
 // for (let i = 0; i < 1000; i++) {
@@ -103,6 +103,10 @@ console.log(myArr);
 
 // }
 // console.log(myArr);
+
+
+
+//5
 
 
 
